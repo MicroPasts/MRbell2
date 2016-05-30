@@ -11,7 +11,7 @@ This application has three files:
 
 Partners
 ===============
-[![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/MaryRose-logo1-e1432132777657.jpg)](http://www.maryrose.org) 
+[![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/master.TheMaryRosePantone-e1432131931101.jpg) 
 ![British Museum](http://finds.org.uk/images/logos/bm_logo.png)
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
 

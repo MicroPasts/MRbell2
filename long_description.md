@@ -22,7 +22,7 @@ If you are interested in what our 3D completed models look like, please have a l
 
 University College London, Sainsbury Institute for the Study of Japanese Arts and Cultures and The British Museum
 
-[![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/MaryRose-logo1-e1432132777657.jpg)](http://www.maryrose.org) 
+[![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/master.TheMaryRosePantone-e1432131931101.jpg) 
 ![British Museum](http://finds.org.uk/images/logos/bm_logo.png)
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
 
