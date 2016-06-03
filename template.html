@@ -296,17 +296,17 @@ a.ol-full-screen-true:after {
 
 <script>
 function loadUserProgress() {
-    pybossa.userProgress('MaryRosebellpre').done(function(data){
+    pybossa.userProgress('HMSHoodpre').done(function(data){
     	
     	console.log('Tasks done so far: ' + data.done);
     	
-        if ((data.done == 1) && ($.cookie('surveyMaryRosebellpre') === undefined)){
+        if ((data.done == 1) && ($.cookie('surveyHMSHoodpre') === undefined)){
            $("#survey").modal('show');
-           $.cookie('surveyMaryRosebellpre', 'shown', { path: '/'});
+           $.cookie('surveyHMSHoodpre', 'shown', { path: '/'});
         }
-        if ((data.done == 25) && ($.cookie('survey25MaryRosebellpre') === undefined)){
+        if ((data.done == 25) && ($.cookie('survey25HMSHoodpre') === undefined)){
            $("#survey25").modal('show');
-           $.cookie('survey25MaryRosebellpre', 'shown', { path: '/'});
+           $.cookie('survey25HMSHoodpre', 'shown', { path: '/'});
         }
         var pct = Math.round((data.done*100)/data.total);
         $("#progress").css("width", pct.toString() +"%");
@@ -675,5 +675,5 @@ pybossa.presentTask(function(task, deferred) {
         
 });
 
-pybossa.run('MaryRosebellpre');
+pybossa.run('HMSHoodpre');
 </script>
